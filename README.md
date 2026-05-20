@@ -1,6 +1,4 @@
-**Yes — 100% safe on your AMI.** Read-only search + file write. No services, no network changes, no lockout risk.
 
-```markdown
 # Find and Save Config Files (RHEL 9)
 ### RHCSA EX200 Lab | Part of [linux-ops-mastery](https://github.com/kelvintechnical/linux-ops-mastery)
 > Use the `find` command to locate all `.conf` files in `/etc` owned by root and save the list to `/root/config_files`.
